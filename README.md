@@ -1,4 +1,8 @@
 
+# NAME : Shivendra Pratap Singh
+# UNIVERSITY : Indian Institute Of Technology PATNA
+# DEPARTMENT : Metallurgical and Materials Engineering
+
 # Talk-A-Tive
 
 Talk-a-tive is a Full Stack Chatting App.
